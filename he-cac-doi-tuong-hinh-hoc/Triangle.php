@@ -74,8 +74,12 @@ class Triangle extends Shape
 
     public function getArea(): float
     {
-        return "Dien tich tam giac"
+        return "Dien tich tam giac =))))";
     }
 
+    public function getPerimeter(): float
+    {
+        return "Chu vi tam giac";
+    }
 
 }
